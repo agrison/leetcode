@@ -12,3 +12,5 @@
 | [Product of Array Except Self](https://leetcode.com/problems/product-of-array-except-self/) | Medium     | [💡](https://github.com/agrison/leetcode/blob/main/problems/product_of_array_except_self/solution.kt) |
 | [Valid Sudoku](https://leetcode.com/problems/valid-sudoku/)                                 | Medium     | [💡](https://github.com/agrison/leetcode/blob/main/problems/valid_sudoku/solution.kt) |
 | [Longest Consecutive Sequence](https://leetcode.com/problems/longest-consecutive-sequence/) | Medium     | [💡](https://github.com/agrison/leetcode/blob/main/problems/longest_consecutive_sequence/solution.kt) |
+| [Median of Two Sorted Arrays](https://leetcode.com/problems/median-of-two-sorted-arrays) | Hard     | [💡](https://github.com/agrison/leetcode/blob/main/problems/median_of_two_sorted_arrays/solution.kt) |
+
